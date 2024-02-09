@@ -50,6 +50,6 @@ This contract, written in Solidity, implements the functionality of a custom ERC
 - **Dependencies**: OpenZeppelin ERC20.sol
 - **License**: MIT
 
-## Author
+## Contact
 
 renukapushpa6@gmail.com
